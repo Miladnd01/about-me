@@ -47,16 +47,6 @@ header {
     gap: 15px;
 }
 
-.avatar {
-    width: 90px;
-    height: 90px;
-    border-radius: 50%;
-    overflow: hidden;
-    flex-shrink: 0;
-    border: 3px solid #fff; /* optional: weißer Rahmen */
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2); /* optional: Schatten */
-}
-
 h1 {
     font-size: 1.8em;
     font-weight: 700;
